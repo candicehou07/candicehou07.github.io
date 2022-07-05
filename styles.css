@@ -1,11 +1,28 @@
+body {
+    display: inline-flex;
+}
+
 .intro {
-    margin-top: 20%;
-    margin-left: 10%;
+    height: 1011px;
+    width: 400px;
     font-family: Monaco;
 }
 
+.text_intro {
+    margin-top: 100%;
+    margin-left: 30%;
+}
+
+
+
 .intro_pic {
-    height: 100%;
-    width: 60%;
-    align-self: right;
+    width: 950px;
+    height: 1011px;
+    position: absolute;
+    right: 0;
+}
+
+img {
+    height: inherit;
+    width: inherit;
 }
