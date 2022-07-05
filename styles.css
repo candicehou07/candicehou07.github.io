@@ -17,8 +17,8 @@ body {
 
 .intro_pic {
     width: 950px;
-    height: max-content;
-    /* height: 1011px; */
+    /* height: max-content; */
+    height: 1100px;
     position: absolute;
     right: 0;
 }
