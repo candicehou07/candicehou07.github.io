@@ -1,5 +1,11 @@
 .intro {
-    margin-top: 30%;
+    margin-top: 20%;
     margin-left: 10%;
     font-family: Monaco;
+}
+
+.intro_pic {
+    height: 100%;
+    width: 60%;
+    align-self: right;
 }
