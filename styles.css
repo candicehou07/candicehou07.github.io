@@ -1,27 +1,24 @@
 body {
     display: inline-flex;
+    width: auto;
 }
 
 .intro {
-    height: 1011px;
-    width: 600px;
     font-family: Monaco;
+    width: auto;
 }
 
 .text_intro {
     margin-top: 50%;
-    margin-left: 30%;
+    margin-left: 10%;
+    margin-right: 20%;
 }
 
 
 
 .intro_pic {
-    width: 950px;
-    /* height: max-content; */
-    padding: 20%;
-    height: 1100px;
-    /* position: absolute; */
-    right: 0;
+    width: auto;
+    height: 900px;
 }
 
 img {
