@@ -22,6 +22,7 @@ body {
 
 .contact-email{
     margin-right: 2%; 
+    text-decoration: none;
 }
 
 .card {
