@@ -25,6 +25,25 @@ body {
     text-decoration: none;
 }
 
+.contact-email .tooltiptext{
+    visibility: hidden;
+    width: 300px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+.contact-email:hover .tooltiptext {
+    visibility: visible;
+}
+
+
 .card {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
