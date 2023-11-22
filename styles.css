@@ -16,6 +16,14 @@ body {
     margin-right: 20%;
 }
 
+.contact{
+    margin-top: 40%;
+}
+
+.contact-email{
+    margin-right: 2%; 
+}
+
 .card {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
